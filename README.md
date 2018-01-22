@@ -1,1 +1,1 @@
-# jQeryTest
+# jQueryTest
